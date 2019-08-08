@@ -1,2 +1,3 @@
-backend/node_modules/**
-backend/configs/**
+/backend/node_modules
+/backend/configs/*
+/frontend/node_modules
